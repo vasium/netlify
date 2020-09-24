@@ -13,5 +13,10 @@
   "license": "ISC",
   "devDependencies": {
     "cssnano": "^4.1.10"
+  },
+  "dependencies": {
+    "-": "0.0.1",
+    "g": "^2.0.1",
+    "netlify-cli": "^2.64.1"
   }
 }
